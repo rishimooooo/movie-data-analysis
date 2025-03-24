@@ -24,3 +24,5 @@ This project analyzes a dataset of movies, performs exploratory data analysis (E
 ### **1️⃣ Clone the Repository**
 
 Run the following command in your terminal:
+
+git clone https://github.com/rishimooooo/movie-data-analysis.git cd movie-data-analysis
